@@ -58,3 +58,6 @@ The agent orchestrates the following tools:
 1. Install dependencies
 ```bash
 pip install google-adk
+
+2. Run main.py
+
